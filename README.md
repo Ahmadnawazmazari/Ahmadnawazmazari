@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Ahmad Nawaz.
-- 👀 I’m interested in Ms Excel, Powerbi, R studio, Stata and SQL.
-- 🌱 I’m currently learning GIS, Python, ML.
+- 👋 Hi, I’m Ahmad Nawaz. Aspiring Machine Learning  Engineer.
+- 👀 I have developed skills in Ms Excel, Powerbi, R studio, Stata and SQL.
+- 🌱 I have vast experience in EDA through python, prediction through ML.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me through linkedIn www.linkedin.com/in/ahmad-nawaz-an24.
 
