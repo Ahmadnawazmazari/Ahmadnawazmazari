@@ -1,6 +1,10 @@
 **Welcome to My Portfolio**
+
+
 **About Me**
 I'm Ahmad Nawaz, an aspiring data scientist from Lahore. Transforming data into actionable insights is what excites me the most. Let's dive into data together!
+
+
 
 **What I Bring to the Table**
 Data Analysis with Excel and Python
